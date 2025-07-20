@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "author": "JLinmr",
-  "url": "https://www.bsgun.cn",
-  "email": "ruoms@qq.com",
+  "url": "https://www.mcenahle.cn",
+  "email": "admin@mcenahle.sh.cn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JLinmr/Uptime-Status"
+    "url": "https://github.com/mcenahle/uptime-status"
   },
   "type": "module",
   "scripts": {
