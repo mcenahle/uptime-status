@@ -82,22 +82,27 @@
           >UptimeRobot</a> 接口 | 检测频率 5 分钟
         </div>
         <div>
-          Copyright © 2020 - {{ new Date().getFullYear() }} <a 
-            :href="pkg.repository.url"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="font-semibold hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
-          >
-            JLinmr
-          </a> | Operated and run by <a 
-            :href="https://www.mcenahle.cn"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="font-semibold hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
-          >
-            Mcenahle
-          </a>
-        </div>
+  Copyright © 2020 - {{ new Date().getFullYear() }}
+  <a
+    :href="pkg.repository.url"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="font-semibold hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
+  >
+    JLinmr
+  </a>
+  |
+  Operated and run by
+  <a
+    href="https://www.mcenahle.cn"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="font-semibold hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
+  >
+    Mcenahle
+  </a>
+</div>
+
       </div>
     </div>
   </footer>
