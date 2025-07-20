@@ -92,7 +92,7 @@
     JLinmr
   </a>
   |
-  Operated and run by
+  Customized and operated by
   <a
     href="https://www.mcenahle.cn"
     target="_blank"
