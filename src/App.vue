@@ -11,6 +11,7 @@
           @refresh="refreshData"
           @toggle-theme="toggleTheme"
         />
+        <p>1</p>
         <Stats :monitors="monitors" />
         <Card 
           :monitors="monitors"
