@@ -11,7 +11,7 @@
           @refresh="refreshData"
           @toggle-theme="toggleTheme"
         />
-        <p>1</p>
+        <p><b>此处的延迟、响应时间数据可能不准确。</b>因为本站使用的是 <a href="https://www.uptimerobot.com" target="_blank"><u>uptimerobot</u></a> 提供的服务（位于境外），所以数值偏大。</p>
         <Stats :monitors="monitors" />
         <Card 
           :monitors="monitors"
