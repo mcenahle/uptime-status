@@ -44,7 +44,7 @@
           <Icon icon="ri:github-line" class="w-5 h-5" />
         </a>
         <a 
-          :href="pkg.url"
+          :href="https://www.mcenahle.org.cn"
           target="_blank"
           rel="noopener noreferrer"
           class="inline-flex items-center justify-center p-1.5 rounded-full transition-colors duration-200
